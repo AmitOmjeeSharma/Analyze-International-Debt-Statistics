@@ -52,8 +52,9 @@ This project was completed as part of my Data Analyst internship at Physics Wall
 ![Screenshot_2](https://github.com/user-attachments/assets/d58a5706-9467-4477-b947-eb5d989a634e)
 
 ## Links
-- [LinkedIn Post](link_to_linkedin_post)
+- [LinkedIn Post](https://www.linkedin.com/posts/amit-omjee-sharma_dataanalytics-python-sql-activity-7225427030039814145-pVvq?utm_source=share&utm_medium=member_desktop)
 - [Power BI Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMTFjZjZkNDQtZGM0Yi00N2U1LWJlNmEtNjVhOGJkZGNiMTcyIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
+
 
 ## Author
 - Amit Omjee Sharma
