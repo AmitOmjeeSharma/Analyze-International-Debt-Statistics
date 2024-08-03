@@ -48,11 +48,12 @@ This project was completed as part of my Data Analyst internship at Physics Wall
 - Debt distribution varies across income groups, with upper-middle-income countries holding the majority.
 
 ## Dashboard
-![Dashboard Image](link_to_dashboard_image)
+![Screenshot_1](https://github.com/user-attachments/assets/9a72e3c8-4c66-4cc4-b5ab-fd4a2232ab52)
+![Screenshot_2](https://github.com/user-attachments/assets/d58a5706-9467-4477-b947-eb5d989a634e)
 
 ## Links
 - [LinkedIn Post](link_to_linkedin_post)
-- [Power BI Live Dashboard](link_to_power_bi_live_dashboard)
+- [Power BI Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMTFjZjZkNDQtZGM0Yi00N2U1LWJlNmEtNjVhOGJkZGNiMTcyIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
 
 ## Author
 - Amit Omjee Sharma
